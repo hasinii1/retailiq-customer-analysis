@@ -72,12 +72,27 @@ df=load_data()
 # HEADER
 # =========================
 
-st.markdown(
-"""
-# 🛒 Customer Shopping Analysis Dashboard
-##### Customer Insights, Revenue Intelligence & Sales Trend
-"""
-)
+st.markdown("""
+<div style="
+    background: linear-gradient(135deg, #134E5E, #0F766E, #16A34A);
+    padding:35px;
+    border-radius:20px;
+    color:white;
+    margin-bottom:20px;
+    box-shadow:0px 8px 20px rgba(0,0,0,0.15);
+">
+
+<h1 style="font-size:45px; margin-bottom:18px;">
+🛒 RetailIQ
+</h1>
+
+<p style="font-size:18px; line-height:1.7; margin-bottom:0;">
+Discover customer purchasing patterns, analyze sales trends, and generate actionable business insights through interactive dashboards and retail analytics.
+</p>
+
+</div>
+""", unsafe_allow_html=True)
+
 
 # =========================
 # SIDEBAR
