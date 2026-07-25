@@ -7,7 +7,7 @@ import os
 # PAGE CONFIG
 # =========================
 st.set_page_config(
-    page_title="Customer Shopping Intelligence Dashboard",
+    page_title="RetailIQ - Customer Shopping Behavior Analysis",
     page_icon="🛒",
     layout="wide"
 )
