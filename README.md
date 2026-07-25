@@ -1,5 +1,5 @@
-# 🛒 RetailIQ – Customer Shopping Behavior Analytics Platform
 <div align="center">
+  <h1>🛒 RetailIQ</h1>
   
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
@@ -8,13 +8,13 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Application-FF4B4B?logo=streamlit)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?logo=plotly)
 
-### 📊 Customer Shopping Analytics Project
+### 📊 Customer Shopping Behaviour Analysis
 Analyze customer shopping behavior using **Python, MySQL, Power BI, and Streamlit** to uncover purchasing patterns, revenue drivers, customer preferences, and business insights.
 </div>
 
 ---
 # 🚀 Live Demo
-https://customershoppingbehaviouranalysis-hasini.streamlit.app/
+https://retailiq-customer-shopping-behavior-analysis.streamlit.app/
 
 ---
 
